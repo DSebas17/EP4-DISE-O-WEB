@@ -1,0 +1,18 @@
+#carrusel{
+    border-radius: 20px;
+}
+
+body{
+    background: radial-gradient(rgb(241, 130, 130),rgb(230, 230, 206));
+}
+
+
+.border {
+    border-width: 4px !important;
+    border-radius: 5px;
+}
+
+.textito{
+    font-size: 20px;
+    margin: 5px;
+}
